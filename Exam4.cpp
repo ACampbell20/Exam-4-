@@ -20,6 +20,4 @@ int main()
 
     emp1.work();
     emp2.work();
-
-    return 0;
 }
